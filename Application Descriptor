@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Jar-URL: test_net.jar
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
+MIDlet-1: TestNET,/network_40.gif,com.yazo.application.MainMIDlet
+MIDlet-Name: test_net MIDlet Suite
